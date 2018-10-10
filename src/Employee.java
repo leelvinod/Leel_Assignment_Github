@@ -4,6 +4,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Column;
 
+//This is a new edit
+
 @javax.persistence.Entity
 @Table(name = "mytest")
 public class Employee { 
